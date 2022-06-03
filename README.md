@@ -1,5 +1,5 @@
 # Apartment_recommender_streamlit_app
-Streamlit App that recommends apartmente in Seattle using the Airbnb kaggle dataset: https://www.kaggle.com/code/rdaldian/airbnb-content-based-recommendation-system/data?select=listings.csv. 
+Streamlit App that recommends apartments in Seattle using the Airbnb kaggle dataset: https://www.kaggle.com/code/rdaldian/airbnb-content-based-recommendation-system/data?select=listings.csv. 
 I created a streamlit app that reccomend apartments in the Airbnb listing of Seattle using the kaggle dataset (link above).
 
 ## Methodology used:
